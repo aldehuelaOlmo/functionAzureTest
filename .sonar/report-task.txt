@@ -1,0 +1,6 @@
+projectKey=TEST_FUNCTION
+serverUrl=http://192.168.100.166:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://192.168.100.166:9000/dashboard/index/TEST_FUNCTION
+ceTaskId=AWEoXHBgBJb6KcLhx7q2
+ceTaskUrl=http://192.168.100.166:9000/api/ce/task?id=AWEoXHBgBJb6KcLhx7q2
