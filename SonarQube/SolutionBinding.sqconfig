@@ -1,0 +1,11 @@
+{
+  "ServerUri": "http://192.168.100.166:9000",
+  "Organization": null,
+  "ProjectKey": "TEST_FUNCTION",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AWEjuZSU-S80j9XgEaT3",
+      "ProfileTimestamp": "2018-01-24T10:21:23+01:00"
+    }
+  }
+}
