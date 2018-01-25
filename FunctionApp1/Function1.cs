@@ -18,10 +18,8 @@ namespace FunctionApp1
             // parse query parameter
             string name = req.GetQueryNameValuePairs()
                 .FirstOrDefault(q => string.Compare(q.Key, "name", true) == 0)
-
-
-
                 .Value;
+            //ESTO ES UN COMENTARIO 
 
             // Get request body
             dynamic data = await req.Content.ReadAsAsync<object>();
